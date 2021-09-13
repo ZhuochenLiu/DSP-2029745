@@ -1,6 +1,6 @@
 # DSP-2029745-Zhuochen Liu
 
-Hello. This is Zhuochen's Data Science Project.
+Here is Zhuochen's Data Science Project.
 
-Due to the size of the data set is more than 25M, so I upload a zip file, which includes the code and the dataset.
+Code file includes the code and data set.
 
